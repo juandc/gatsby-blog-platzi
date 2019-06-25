@@ -1,0 +1,34 @@
+{
+  "name": "gatsby-blog-platzi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandc/gatsby-blog-platzi.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-blog",
+    "markdown",
+    "react"
+  ],
+  "author": "Juan David Castro <me@juandc.co> (@juandc)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juandc/gatsby-blog-platzi/issues"
+  },
+  "homepage": "https://github.com/juandc/gatsby-blog-platzi#readme",
+  "dependencies": {
+    "gatsby": "^2.10.0",
+    "gatsby-source-filesystem": "^2.1.0",
+    "gatsby-transformer-remark": "^2.5.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
